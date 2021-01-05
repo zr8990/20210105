@@ -1,3 +1,5 @@
+
+// manifest.json 指定了开始页面 index.html，一切的开始都从这里开始，所以这个是代码执行的源头
 {
   "short_name": "React App",
   "name": "Create React App Sample",
